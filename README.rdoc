@@ -1,9 +1,7 @@
 = Linux Typewriter
 
-If you want to make some kind of screencast that features keyboard typing sounds,
-this might come in handy. Get the script, run linux-typewriter.rb and pump up your volume.
+typing sounds, fixed cpu occupation, added new sounds support
 
-This is totally hacked-away, but it works for me. Your mileage may vary, though.
 
 == Requirements
 
